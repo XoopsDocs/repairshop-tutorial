@@ -1,7 +1,7 @@
 # 5.0 The User Side
 
 In the main menu you can choose a repair task sorted by status.
-3 possible status choices:
+There are 3 possible status choices:
 
 * **In progress**: the repair is created and not yet ended or not started. Of course it’s possible that you are just waiting the acceptation of the quote. 
 
@@ -14,3 +14,18 @@ You can access to the repair in each state thru the main menu:
  
 In the “repair in progress” it’s possible to create a new repair task, update a repair, print a quote or issue an invoice.
 If you have admin right, you can access the Admin area with a click on the key picture at the left top.
+
+
+When all task are done for a particular repair, you can “close“ the repair by using a checkbox at the bottom of the modification form. (depending on how you set module preferences. 
+
+As default, it is only available for the Admin, however, if desired, you can allow it also to the users by changing the module preferences).
+
+ 
+
+When the repair is closed, you can archive it to keep its history for future inquiries.
+ 
+
+You can see repairs for each status. Each status has a specific color, thus preventing misunderstandings. 
+ 
+Note: you always can print quote or invoice. 
+ 

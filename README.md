@@ -13,6 +13,14 @@
 ## Module Purpose 
 
 This module was developed for use in an Auto Repair Service business. 
+It may, of course, be adapted to manage other businesses that include “after sales“ service.
+
+It has been developed on XOOPS 2.4 and tested on XOOPS 2.5. 
+
+The goal was to develop a Web application for managing car repairs. It has two different areas: mechanical and bodywork, and can handle several workers in each area. 
+
+The module allows managing maintenance of the cars currently in the garage, follow up on current and completed repairs, and edit quotes and invoices.
+
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the Repair-Shop Module (Admin side)*

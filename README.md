@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module was developed for use in an Auto Repair Service business. 
+This module was developed for use in an **Auto Repair Service** business. 
 It may, of course, be adapted to manage other businesses that include “after sales“ service.
 
 It has been developed on XOOPS 2.4 and tested on XOOPS 2.5. 

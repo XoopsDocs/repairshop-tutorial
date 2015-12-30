@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module Repair-Shop
+# Module Gestion des réparations
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
@@ -12,17 +12,16 @@
 
 ## Module Purpose 
 
-This module was developed for use in an **Auto Repair Service** business. 
-It may, of course, be adapted to manage other businesses that include “after sales“ service.
+Ce module a été développé pour une utilisation dans un garage automobile.Il pourrait bien entendu être adapté pour gérer une activité du genre service après vente.
 
-It has been developed on XOOPS 2.4 and tested on XOOPS 2.5. 
+Il a été développé sur un XOOPS 2.4 et les tests sur un XOOPS 2.5 sont concluants.
 
-The goal was to develop a Web application for managing car repairs. It has two different areas: mechanical and bodywork, and can handle several workers in each area. 
+Le besoin exprimé était d’avoir à disposition un outil de suivi des réparations dans un garage automobile. Deux secteurs différents, mécanique et carrosserie ; plusieurs ouvriers dans chaque secteur.
 
-The module allows managing maintenance of the cars currently in the garage, follow up on current and completed repairs, and edit quotes and invoices.
+Le module permet de gérer le parc de voitures en entretien dans le garage, de suivre les interventions en cours et terminées, d’éditer des devis et des factures.
 
 
-![image001.png](assets/image001.png)
+![](assets/image007.png)
 *Figure 1: Main view of the Repair-Shop Module (Admin side)*
 
 # Table of Content

@@ -1,3 +1,3 @@
-# 1041 XOOPS模組開發
+# My Awesome Book
 
-Education course from Taiwan, developed by [Tad](http://www.tad0616.net)
+This file serves as your book's preface, a great place to describe your book's content and ideas.

@@ -33,5 +33,5 @@ You can see repairs for each status. Each status has a specific color, thus prev
 
 ![](../assets/image075.png)  
  
-Note: you always can print quote or invoice. 
- 
+
+>![](../assets/info/important.png) **NOTE:** you always can print quote or invoice. 

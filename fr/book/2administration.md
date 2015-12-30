@@ -1,23 +1,26 @@
-# 2.0 Administration Menu
+# 2.0 Descriptif détaillé 
 
-I.	Administration area
-1.	Customers
-2.	Vehicles
-3.	Suppliers
-4.	Categories of spare parts
-5.	Spare parts
-6.	Package
-7.	Brands
-8.	Workers
-9.	Documentation
-10.	Trash
-11.	Repair task
-12.	Editions
-13.	Preferences of the module
-II.	User area  
+I.	Face administration 
+1. Clients
+2. Véhicules
+3. Fournisseurs
+4. Catégories de pièces
+5. Pièces
+6. Forfait
+7. Marques
+8. Employés
+9. Documentation
+10. Corbeille
+11. Interventions
+12. Editions
+13. Préférences du module
+
+
+**II.	User area ** 
  
-2.	ADMINISTRATION
-2.1 	New GUI Interface look 
+**2.	ADMINISTRATION**
+
+**2.1 	New GUI Interface look **
 
 As explained by Mamba here, Mage has created a new class for Module Administration GUI which provides a fresh and attractive admin interface, auto generated from data in the menu.php.
 
@@ -25,13 +28,15 @@ As explained by Mamba here, Mage has created a new class for Module Administrati
  
  
  
-2.2 	Customers
-You can save all customer information in the database. It’s of course useful for regular customers.
-List of customer records :
+**2.2 	Clients**
+
+La tenue du fichier client permet de conserver les coordonnées des différents clients. Liste des clients enregistrés :
+
+![](../assets/image009.png)
  
 Form for adding a new customer:
  
-
+![](../assets/image011.png)
 
  
 2.3 	Cars

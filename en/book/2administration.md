@@ -133,7 +133,7 @@ You can of course update these tips by adding your own info. It can be useful wh
 ![](../assets/image043.png)  
 
  
-2.11 	Trash
+**2.11 	Trash**
 
 A trash system is available to undelete a repair deleted by mistake ;-).
  

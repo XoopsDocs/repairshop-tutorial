@@ -39,90 +39,99 @@ Form for adding a new customer:
 ![](../assets/image011.png)
 
  
-2.3 	Cars
-This tab is dedicated to car maintenance management in the garage. 
+**2.3 	Véhicules**
 
-List of registered cars:
+Cet onglet est dédié à la gestion du parc de véhicules en entretien dans le garage. 
+
+Liste des véhicules enregistrés :
+
+![](../assets/image013.png)
+
+Interface de création d’un nouveau véhicule :
  
+![](../assets/image015.png) 
 
-Form to add a new car:
+**2.4 	. Fournisseurs**
+
+Liste des fournisseurs référencés :
+
+![](../assets/image017.png) 
+
+Interface de création d’un nouveau fournisseur :
+
+![](../assets/image019.png) 
  
- 
+**2.5 Catégories de pièces**
 
-2.4 	Suppliers
-Registered supplier list:
+L’utilisation des catégories permet de trier la liste des pièces détachées. 
 
- 
+Liste des catégories :
 
-Form to add a new supplier:
+![](../assets/image021.png) 
 
- 
- 
-2.5 	Spare parts
+Interface de création d’une catégorie :
 
-As it’s possible to have many spare parts in the full list a small tab is available to show / hide the spare parts list.
+![](../assets/image023.png) 
 
-Spare parts list:
-
- 
-
-Form to add a new spare part :
-
- 
-
-
- 
-2.6 	Spare parts categories
-
-Using categories allows sorting of the spare parts.
-
-Category list:
 
  
+**2.6 	Pièces**
 
-Form to add a new category:
+La liste des pièces pouvant devenir conséquente un clic sur va permettre
+
+![](../assets/image025.png) 
+
+Interface de création d’une nouvelle pièce :
 
  
-
+![](../assets/image027.png)
  
-2.7 	Brands
+**2.7 	Forfaits**
+
 Few brands are already included when you install the module. You can of course add other brands.
+
+![](../assets/image029.png)
  
 Form to add a new brand:
  
-
+![](../assets/image031.png)
  
-2.8 	Package
+**2.8 	Package**
+
 Package list:
 
- 
+![](../assets/image033.png) 
 
 Form to add a new package:
 
- 
+![](../assets/image035.png) 
 
 When you have submitted the first form a new one is shown which allows adding spare parts.
 
- 
+![](../assets/image037.png) 
 
 
  
-2.9 	Workers
+**2.9 	Workers**
 
 List of available workers:
+
+![](../assets/image039.png) 
  
 Form to add a new worker:
- 
 
-2.10 	Documentation
+![](../assets/image041.png)  
+
+**2.10 	Documentation**
 
 An integrated documentation system is available. It helps the administrator of the module by showing specific tips in each admin tabs.
 You can of course update these tips by adding your own info. It can be useful when you use some tabs rarely and need a quick reminder about the functionality or if you delegate the admin of the module to a non-expert user.
  
-
+![](../assets/image043.png)  
 
  
-2.11 	Trash
+**2.11 	Trash**
 
 A trash system is available to undelete a repair deleted by mistake ;-).
  
+![](../assets/image045.png)  

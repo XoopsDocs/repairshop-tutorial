@@ -11,21 +11,27 @@ There are 3 possible status choices:
 
 
 You can access to the repair in each state thru the main menu: 
+
+![](../assets/image067.png) 
  
 In the “repair in progress” it’s possible to create a new repair task, update a repair, print a quote or issue an invoice.
 If you have admin right, you can access the Admin area with a click on the key picture at the left top.
 
+![](../assets/image069.png) 
 
 When all task are done for a particular repair, you can “close“ the repair by using a checkbox at the bottom of the modification form. (depending on how you set module preferences. 
 
 As default, it is only available for the Admin, however, if desired, you can allow it also to the users by changing the module preferences).
 
- 
+![](../assets/image071.png)  
 
 When the repair is closed, you can archive it to keep its history for future inquiries.
  
+![](../assets/image073.png)   
 
 You can see repairs for each status. Each status has a specific color, thus preventing misunderstandings. 
+
+![](../assets/image075.png)  
  
 Note: you always can print quote or invoice. 
  

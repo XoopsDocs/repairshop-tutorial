@@ -22,7 +22,7 @@ The goal was to develop a Web application for managing car repairs. It has two d
 The module allows managing maintenance of the cars currently in the garage, follow up on current and completed repairs, and edit quotes and invoices.
 
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image007.png)
 *Figure 1: Main view of the Repair-Shop Module (Admin side)*
 
 # Table of Content

@@ -2,40 +2,45 @@
 
 3.	REPAIR TASK
 
-3.1 	Logical process
+**3.1 	Logique de traitement**
 
-You can add a new repair task both in admin area and in user side.
- 
+La création d’une nouvelle réparation se fait soit dans la zone utilisateur soit dans la zone administration.
 
-Main data:
-The list of vehicles managed in the module is available in the first dropdown list. 
-You can, of course, add a new vehicle or a new customer directly in this form. 
-Useful data:
-Kilometers/Miles and repair task to do are required to create a new repair task.
-The arrival date and the due date are used to set priorities in the garage work.
+![](../assets/image047.png)   
 
+**Information générales :**
 
- 
-Repair details are shown as follow in the user side:
- 
+La liste des véhicules du parc ainsi que leur propriétaire est disponible dans la première liste déroulante.
 
-If at least one package is created by the admin, a specific form is shown at the bottom of the screen:
+La création d’un nouveau véhicule ou même d’un nouveau client est bien sur possible directement à cet endroit.
+
+**Informations pratiques :**
+
+Le kilométrage, la liste des travaux à réaliser sont des informations nécessaires à la création de la fiche d’intervention.
+
+Les dates de réception et le délai de restitution du véhicule permettent de gérer les urgences dans la charge du garage. Le détail de la réparation se présente de la manière suivante coté utilisateur :
+
+![](../assets/image049.png)   
+
+Si au moins un forfait a été créé via l’administration du module la zone spécifique aux forfaits s’affiche :
  
- 
+![](../assets/image051.png)   
 
 If an admin edits a repair task in the user side, he can manage more data than a standard user.
 For example, he can add / delete some task:
  
+![](../assets/image053.png)   
+![](../assets/image055.png) 
  
 
- 
-
-3.2 	Printing
+**3.2 	Printing**
 
 The module can print quotation and invoices.
 Some data as garage name can be managed in the preferences of the module.
 Quote
  
+![](../assets/image057.png)  
 
-3.3 	Invoice
+**3.3 	Invoice**
  
+![](../assets/image057.png) 

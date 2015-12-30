@@ -86,13 +86,13 @@ Interface de création d’une nouvelle pièce :
  
 ![](../assets/image027.png)
  
-**2.7 	Forfaits**
+**2.7 	Marques**
 
-Few brands are already included when you install the module. You can of course add other brands.
+Un certain nombre de marques courantes sont déjà renseignées à l’installation du module.
 
 ![](../assets/image029.png)
  
-Form to add a new brand:
+Création d’une nouvelle marque :
  
 ![](../assets/image031.png)
  
@@ -112,26 +112,27 @@ When you have submitted the first form a new one is shown which allows adding sp
 
 
  
-**2.9 	Workers**
+**2.9 	Employés**
 
 List of available workers:
 
 ![](../assets/image039.png) 
  
-Form to add a new worker:
+Création d’un nouvel employé :
 
 ![](../assets/image041.png)  
 
 **2.10 	Documentation**
 
-An integrated documentation system is available. It helps the administrator of the module by showing specific tips in each admin tabs.
-You can of course update these tips by adding your own info. It can be useful when you use some tabs rarely and need a quick reminder about the functionality or if you delegate the admin of the module to a non-expert user.
+Un système de documentation intégré permet d’aider le gestionnaire en affichant une aide spécifique à chaque onglet de l’administration du module.
+
+La modification de ces informations permet d’avoir à disposition un ‘pense bête’ pour des fonctionnalités utilisées moins fréquemment.
  
 ![](../assets/image043.png)  
 
  
-**2.11 	Trash**
+**2.11 	Corbeille**
 
-A trash system is available to undelete a repair deleted by mistake ;-).
+Un système de corbeille est mis en place pour récupérer une intervention qui aurait été supprimée par erreur. ;-).
  
 ![](../assets/image045.png)  

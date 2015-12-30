@@ -17,11 +17,12 @@ I.	Administration area
 II.	User area  
  
 2.	ADMINISTRATION
+
 2.1 	New GUI Interface look 
 
 As explained by Mamba here, Mage has created a new class for Module Administration GUI which provides a fresh and attractive admin interface, auto generated from data in the menu.php.
 
-
+![](../assets/image007.png)
  
  
  

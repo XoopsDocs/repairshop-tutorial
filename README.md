@@ -3,14 +3,14 @@
 ![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
 
 ## Module Repair
-
+  
 #### for XOOPS 2.5.7
-
-![logoModule.png](.gitbook/assets/logomodule.png)
-
+  
+? 2016 XOOPS Project ([www.xoops.org](https://xoops.org))     
+  
 ### User Manual
 
-\(c\) 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+\(c\) 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -18,7 +18,7 @@ The Polls module can be used to display interactive survey forms on your site. E
 
 ![img\_2.jpg](https://github.com/xoops/repairshop-tutorial/tree/719d6d32dea221b3e980fd3d6222f179ac898394/en/assets/img_2.jpg) _Figure 1: Main view of the repair Module \(Admin side\)_
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/repair)**\)**
 
@@ -46,5 +46,6 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
